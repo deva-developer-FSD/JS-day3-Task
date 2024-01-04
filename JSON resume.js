@@ -50,7 +50,7 @@ let DevaResume=[{
 
         },],
     },];
-//console.log(DevaResume);
+console.log(DevaResume);
 
 
 
